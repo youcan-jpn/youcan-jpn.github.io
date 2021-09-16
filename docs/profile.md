@@ -26,5 +26,5 @@ System Information Engineering Course, junior (3rd year).
 ## 趣味 / Hobbies
 - ハンドボール / Handball
 - バスケットボール / Basketball
-- 旅行 / travel
-- 写真　/ photography
+- 旅行 / Travel
+- 写真　/ Photography
