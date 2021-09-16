@@ -28,7 +28,7 @@ twitter_username: youcan10011
 github_username:  youcan-jpn
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
