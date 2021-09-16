@@ -19,7 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 平々凡々
-email: youcana40627 [at] gmail.com
+author:
+  name: 小野悠太 (Yuta Ono)
+  email: youcana40627 [at] gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   An ordinary life of a university student in Japan.
 baseurl: "" # the subpath of your site, e.g. /blog
