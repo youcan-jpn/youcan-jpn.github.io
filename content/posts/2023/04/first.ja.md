@@ -1,9 +1,9 @@
 ---
-title: "First"
+title: "Hugo はじめました"
 date: 2023-04-01T00:41:14+09:00
 draft: false
 categories: ["Blog"]
-tags: []
+tags: ["Hugo", "ETH"]
 ---
 
 Github Pages用の静的サイトジェネレータをJekyllからHugoに移行しました。
