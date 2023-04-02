@@ -2,7 +2,7 @@ baseURL: "https://youcan-jpn.github.io"
 title: Yuta Ono
 languageCode: ja
 paginate: 5
-theme: PaperMod
+theme: papermod
 
 defaultContentLanguage: ja
 languages:
