@@ -1,0 +1,101 @@
+baseURL: "https://youcan-jpn.github.io"
+title: Yuta Ono
+languageCode: ja
+paginate: 5
+theme: PaperMod
+
+defaultContentLanguage: ja
+languages:
+  ja:
+    languageName: 日本語
+    weight: 1
+    menu:
+      main:
+        - identifier: profile
+          name: プロフィール
+          url: /profile/
+          weight: 10
+        - identifier: posts
+          name: 投稿
+          url: /posts/
+          weight: 20
+        - identifier: categories
+          name: カテゴリ
+          url: /categories/
+          weight: 30
+        - identifier: tags
+          name: タグ
+          url: /tags/
+          weight: 40
+  en:
+    languageName: English
+    weight: 2
+    menu:
+      main:
+        - identifier: profile
+          name: profile
+          url: /profile/
+          weight: 10
+        - identifier: posts
+          name: posts
+          url: /posts/
+          weight: 20
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 30
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 40
+  # de:
+  #   languageName: Deutsch
+  #   weight: 3
+  #   menu:
+  #     main:
+  #       - identifier: posts
+  #         name: Beiträge
+  #         url: /posts/
+  #         weight: 10
+
+params:
+  env: production
+  defaultTheme: auto
+
+  assets:
+    disableHLJS: true
+    favicon: "favicon.ico"
+    favicon16x16:  "favicon-16x16.png"
+    favicon32x32:  "favicon-32x32.png"
+    apple_touch_icon:  "apple-touch-icon.png"
+
+  profileMode:
+      enabled: true
+      subtitle: "Pursuing a Master's degree @[UTokyo](https://www.u-tokyo.ac.jp/en/index.html)"
+      imageUrl: "YutaOno-icon-1.png"
+      imageTitle: "my icon"
+      imageWidth: 200
+      imageHeight: 200
+
+  socialIcons:
+      - name: "github"
+        url: "https://github.com/youcan-jpn"
+
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+
+output:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    noClasses: true
+    style: monokai
