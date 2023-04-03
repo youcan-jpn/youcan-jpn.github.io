@@ -88,7 +88,7 @@ params:
 
   description: Site of Yuta Ono
   images:
-    - opengraph.jpg
+    - opengraph.png
 
 output:
   home:
