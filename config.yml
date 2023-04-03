@@ -86,6 +86,10 @@ params:
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
 
+  description: Site of Yuta Ono
+  images:
+    - opengraph.jpg
+
 output:
   home:
     - HTML

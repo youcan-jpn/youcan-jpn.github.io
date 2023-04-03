@@ -1,6 +1,7 @@
 ---
 title: "Profile"
 summary: "About me"
+description: "Profile of Yuta Ono"
 ---
 
 ONO Yuta (小野 悠太)
@@ -12,12 +13,12 @@ Master's Student in [Nakamura-Takase](http://www.hal.ipc.i.u-tokyo.ac.jp/index-e
 
 ## Education
 
-|                    |                                                                                                                                                |
-| :----------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2023.04 --         | Master course, Department of Information Physics and Computing, Graduate School of Information Science and Technology, The University of Tokyo |
-| 2021.04 -- 2023.03 | Department of Mathematical Engineering and Information Physics, Fuculty of Engineering, The University of Tokyo                                |
-| 2019.04 -- 2021.03 | Natural Sciences I, College of Arts and Science Junior Division, The University of Tokyo                                                       |
-| 2016.04 -- 2019.03 | Kanagawa prefectural Yokohama-Suiran Senior High School                                                                                        |
+|                    |                                                                                                                                                  |
+| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2023.04 --         | Master's course, Department of Information Physics and Computing, Graduate School of Information Science and Technology, The University of Tokyo |
+| 2021.04 -- 2023.03 | Department of Mathematical Engineering and Information Physics, Fuculty of Engineering, The University of Tokyo                                  |
+| 2019.04 -- 2021.03 | Natural Sciences I, College of Arts and Science Junior Division, The University of Tokyo                                                         |
+| 2016.04 -- 2019.03 | Kanagawa prefectural Yokohama-Suiran Senior High School                                                                                          |
 
 
 ## Qualification
@@ -30,7 +31,7 @@ Master's Student in [Nakamura-Takase](http://www.hal.ipc.i.u-tokyo.ac.jp/index-e
 
 ## Scholarship
 
-|                    |                                                                                                           |
-| :----------------- | :-------------------------------------------------------------------------------------------------------- |
+|                    |                                                                                                                                                                                                                     |
+| :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2023.09 -- 2024.08 | [AY2023 UTokyo-TOYOTA Study Abroad Scholarship for the study and research in the field of Artificial Intelligence](https://www.u-tokyo.ac.jp/adm/go-global/ja/scholarship-list-toyota.html) (JPY 220,000 per month) |
-| 2023.09 -- 2024.08 | [37th term scholarship student of INOAC International Education and Scholarship Foundation](http://www.inoac-scholarship.jp/index.html) (JPY 100,000 per month) |
+| 2023.09 -- 2024.08 | [37th term scholarship student of INOAC International Education and Scholarship Foundation](http://www.inoac-scholarship.jp/index.html) (JPY 100,000 per month)                                                     |

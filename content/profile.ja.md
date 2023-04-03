@@ -2,6 +2,7 @@
 title: "プロフィール"
 url: "/profile"
 summary: "About me"
+description: "Profile of Yuta Ono"
 ---
 
 小野 悠太 (ONO Yuta)
