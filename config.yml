@@ -64,15 +64,15 @@ params:
 
   assets:
     disableHLJS: true
-    favicon: "favicon.ico"
-    favicon16x16:  "favicon-16x16.png"
-    favicon32x32:  "favicon-32x32.png"
-    apple_touch_icon:  "apple-touch-icon.png"
+    favicon: "favicons/favicon.ico"
+    favicon16x16:  "favicons/favicon-16x16.png"
+    favicon32x32:  "favicons/favicon-32x32.png"
+    apple_touch_icon:  "favicons/apple-touch-icon.png"
 
   profileMode:
       enabled: true
       subtitle: "Pursuing a Master's degree @[UTokyo](https://www.u-tokyo.ac.jp/en/index.html)"
-      imageUrl: "YutaOno-icon-1.png"
+      imageUrl: "favicons/yo-logo.png"
       imageTitle: "my icon"
       imageWidth: 200
       imageHeight: 200
