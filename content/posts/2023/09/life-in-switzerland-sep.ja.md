@@ -4,6 +4,7 @@ date: 2023-10-06T18:11:48+02:00
 draft: false
 categories: ["ブログ", "留学記"]
 tags: ["ETH", "自炊", "研究"]
+description: チューリッヒに来て1か月経ったので、こちらでの生活についてまとめました
 ---
 
 ![Limmat-river-in-Zurich](/img/2023/09/Zurich-Limmat.jpg#center)
