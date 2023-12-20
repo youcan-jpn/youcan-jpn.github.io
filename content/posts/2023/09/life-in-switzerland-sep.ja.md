@@ -38,8 +38,7 @@ description: "チューリッヒに来て1か月経ったので、こちらで�
 
 来年の夏に日本に帰るまで同じ感想を持っているかはわかりませんが、1年を完全に無駄にするということはなさそうです。
 
-![Zurich-lake](/img/2023/09/Zurich-lake.jpg#center)
-
+{{< figure src="/img/2023/09/Zurich-lake.jpg" title="チューリッヒ湖" >}}
 
 ## スイスでの食事
 
@@ -58,7 +57,7 @@ description: "チューリッヒに来て1か月経ったので、こちらで�
 
 そんななわけで、日本にいる頃よりも自炊の回数は多くなっています。
 
-![vegies-in-supermarket](/img/2023/09/vegies.jpg#center)
+{{< figure src="/img/2023/09/vegies.jpg" title="スイスのスーパーマーケットの様子">}}
 
 こちらに来てからジャーマンポテトとミートソースが得意料理になりました（というかこの2つ以外の料理はほとんど作ってない）。
 
@@ -127,11 +126,9 @@ Semester Projectでは、ETHのDistributed Computing Group (DISCO) に所属し�
 
 
 ---
-![ETH-main-building](/img/2023/09/ETH-main-building.jpg#center)
-ETHのメインビルディング
+{{< figure src="/img/2023/09/ETH-main-building.jpg" title="ETHのメインビルディング" >}}
 
-![View-from-polyterasse](/img/2023/09/from-polyterasse.jpg#center)
-ETHのテラスから見た景色
+{{< figure src="/img/2023/09/from-polyterasse.jpg" title="ETHのPolyterrasseからの景色" >}}
 
 
 ---
