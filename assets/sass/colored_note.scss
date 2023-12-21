@@ -1,0 +1,51 @@
+$color_blue : #0594cb;
+$color_red  : #cb1905;
+$color_green: #19cb05;
+$color_black: #000000;
+
+.note {
+    display: block;
+    padding: 0.125em 1em;
+    margin: 0;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    border-left-style: solid;
+    border-left-width: 0.3em;
+}
+
+.cn-b--blue {
+    border-color: $color_blue;
+}
+
+.cn-bg--blue {
+    background-color: rgba($color_blue, 0.10);
+}
+
+.cn-b--red {
+    border-color: $color_red;
+}
+
+.cn-bg--red {
+    background-color: rgba($color_red, 0.08);
+}
+
+.cn-b--green {
+    border-color: $color_green;
+}
+
+.cn-bg--green {
+    background-color: rgba($color_green, 0.08);
+}
+
+.cn-b--black {
+    border-color: $color_black;
+}
+
+.cn-bg--black {
+    background-color: rgba($color_black, 0.08);
+}
+
+.note > p {
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+}
