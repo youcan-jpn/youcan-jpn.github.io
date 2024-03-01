@@ -62,7 +62,9 @@ Supervisorは2人とも英語よりもドイツ語のほうが得意で、普段
 日本にいたら、ここまで多くの国にはなかなか行きづらいと思うので、この留学期間をうまく利用して様々な国に行きたいと思います。
 
 ![Big Ben in London](/img/2024/03/London.jpg#center)
+
 ![Sagrada Familia in Barcelona](/img/2024/03/Barcelona.jpg#center)
+
 ![A windmil in Amsterdam](/img/2024/03/Amsterdam.jpg#center)
 
 
