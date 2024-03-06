@@ -1,7 +1,6 @@
 ---
 title: "Profile"
 summary: "About me"
-description: "Profile of Yuta Ono"
 ---
 
 ONO Yuta (小野 悠太)
@@ -13,8 +12,8 @@ Master's Student in [Nakamura-Takase](http://www.hal.ipc.i.u-tokyo.ac.jp/index-e
 
 ## Education
 
-|                    |                                                                                                                                                  |
-| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Period | Affiliation |
+| :----- | :---------- |
 | 2023.09 -- 2024.08 | Exchange student, D-ITET, ETH Zürich, Switzerland |
 | 2023.04 --         | Master's course, Department of Information Physics and Computing, Graduate School of Information Science and Technology, The University of Tokyo |
 | 2021.04 -- 2023.03 | Department of Mathematical Engineering and Information Physics, Fuculty of Engineering, The University of Tokyo                                  |
@@ -22,16 +21,16 @@ Master's Student in [Nakamura-Takase](http://www.hal.ipc.i.u-tokyo.ac.jp/index-e
 | 2016.04 -- 2019.03 | Kanagawa prefectural Yokohama-Suiran Senior High School                                                                                          |
 
 
-## Qualification
-
-|         |                                                                                                               |
-| :-----: | :------------------------------------------------------------------------------------------------------------ |
-| 2022.12 | [Database Specialist Examination](https://www.ipa.go.jp/shiken/kubun/db.html), IPA, JAPAN                     |
-| 2022.06 | [Applied Information Technology Engineer Examination](https://www.ipa.go.jp/shiken/kubun/ap.html), IPA, JAPAN |
-
-
 ## Scholarship
 
-|                    |                                                                                                                                                                                                                     |
-| :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Period | Name (Amount) |
+| :----- | :------------ |
 | 2023.09 -- 2024.08 | [AY2023 UTokyo-TOYOTA Study Abroad Scholarship for the study and research in the field of Artificial Intelligence](https://www.u-tokyo.ac.jp/adm/go-global/ja/scholarship-list-toyota.html) (JPY 220,000 per month) |
+
+
+## Qualification
+
+| Date | Name |
+| :--: | :--- |
+| 2022.12 | [Database Specialist Examination](https://www.ipa.go.jp/shiken/kubun/db.html), IPA, JAPAN                     |
+| 2022.06 | [Applied Information Technology Engineer Examination](https://www.ipa.go.jp/shiken/kubun/ap.html), IPA, JAPAN |

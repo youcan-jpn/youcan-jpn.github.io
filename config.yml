@@ -15,6 +15,10 @@ languages:
           name: プロフィール
           url: /profile/
           weight: 10
+        - identifier: research
+          name: 研究
+          url: /research/
+          weight: 15
         - identifier: posts
           name: 投稿
           url: /posts/
@@ -36,6 +40,10 @@ languages:
           name: profile
           url: /profile/
           weight: 10
+        - identifier: research
+          name: research
+          url: /research/
+          weight: 15
         - identifier: posts
           name: posts
           url: /posts/
