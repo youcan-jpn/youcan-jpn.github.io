@@ -8,7 +8,7 @@ ONO Yuta (小野 悠太)
 
 ## Affiliation
 
-Master's Student in [Nakamura-Takase](http://www.hal.ipc.i.u-tokyo.ac.jp/index-e.html) lab., Department of Information Physics and Computing, Graduate School of Information Science and Technology, The University of Tokyo
+Master's Student in [Nakamura-Takase lab.](http://www.hal.ipc.i.u-tokyo.ac.jp/index-e.html), Department of Information Physics and Computing, Graduate School of Information Science and Technology, The University of Tokyo
 
 
 ## Education
