@@ -4,10 +4,11 @@ summary: Research Activities
 ---
 
 ## International Conference / Workshop
-1. **Yuta Ono**, Till Aczél, Benjamin Estermann and Roger Wattenhofer, "[SUPClust: Active Learning at the Boundaries](https://arxiv.org/abs/2403.03741)", 5th Workshop on practical ML for limited/low resource settings (PML4LRS@ICLR), Vienna, Austria, May 2024.
+1. **Yuta Ono**, Till Aczel, Benjamin Estermann, and Roger Wattenhofer, "[SUPClust: Active Learning at the Boundaries](https://arxiv.org/abs/2403.03741)," 5th Workshop on practical ML for limited/low resource settings (PML4LRS@ICLR), Vienna, Austria, May 2024.
 
 ## Domestic Conference / Workshop
-1. **小野悠太**, 鈴木颯, 牧野泰才, 西海望, 篠田裕之, "超音波空中浮遊における高速カメラを利用した動的物体の制御", ロボティクス・メカトロニクス講演会2023講演論文集, 2A2-H25 , 愛知, Jun., 2023.
+1. **Yuta Ono**, Yuta Tarumi, Keisuke Fukuda, and Shin-ichi Maeda, "Training Deep Neural Networks for Fast Data Assimilation," IBISML, Hokkaido, Japan, Dec. 2024.
+2. **Yuta Ono**, Shun Suzuki, Yasutoshi Makino, Nozomi Nishiumi, and Hiroyuki Shinoda, "Trapping of Airborne Objects by Using Camera Tracking in Acoustic Levitation," ROBOMECH, Aichi, Japan, Jun. 2023.
 
 
 ## Award
