@@ -32,12 +32,6 @@ Master's Student in [Nakamura-Takase lab.](http://www.hal.ipc.i.u-tokyo.ac.jp/in
 | 2023.04 --         | Teaching Assistant, UTokyo, Japan |
 | 2021.09 -- 2023.08 | AI Engineer, Nagase Brothers Inc., Japan |
 
-## Scholarship
-
-| Period | Name (Amount) |
-| :----- | :------------ |
-| 2023.09 -- 2024.08 | [AY2023 UTokyo-TOYOTA Study Abroad Scholarship for the study and research in the field of Artificial Intelligence](https://www.u-tokyo.ac.jp/adm/go-global/ja/scholarship-list-toyota.html) (JPY 220,000 per month) |
-
 
 ## Qualification
 
