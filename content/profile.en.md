@@ -33,6 +33,15 @@ Master's Student in [Nakamura-Takase lab.](http://www.hal.ipc.i.u-tokyo.ac.jp/in
 | 2021.09 -- 2023.08 | AI Engineer, Nagase Brothers Inc., Japan |
 
 
+## Skill
+- Machine Learning
+  - I've been using Python and its libraries (e.g., PyTorch, NumPy, Matplotlib) for 5+ years
+- SLURM (workload manager for HPC)
+  - As User: I can run deep learning jobs with it
+  - As Admin: I introduced SLURM to nodes in my laboratory from scratch, and have been managing it since 2024
+- Web
+  - I have built web services (frontend, backend) in Nagase Brothers Inc. with RDBMS (PostgreSQL, MySQL), Go, Python, and TypeScript
+
 ## Qualification
 
 | Date | Name |
