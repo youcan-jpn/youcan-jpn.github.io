@@ -1,7 +1,7 @@
 ---
 title: "ETH交換留学記（3月）"
 date: 2024-03-01T13:45:44+01:00
-draft: false
+draft: true
 categories: ["ブログ", "留学記"]
 tags: ["ETH", "研究"]
 description: "留学が半分終わったのでいったん振り返ります"

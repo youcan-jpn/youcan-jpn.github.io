@@ -1,6 +1,7 @@
 ---
 title: "ETH交換留学記（6月）"
 date: 2024-07-02T15:53:08+02:00
+draft: true
 categories: ["ブログ", "留学記"]
 tags: ["ETH", "研究", "スイス"]
 description: スイス生活も残り1か月

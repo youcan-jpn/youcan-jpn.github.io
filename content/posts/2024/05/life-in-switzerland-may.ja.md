@@ -1,6 +1,7 @@
 ---
 title: "ETH交換留学記（5月）"
 date: 2024-06-07T21:52:45+02:00
+draft: true
 categories: ["ブログ", "留学記"]
 tags: ["ETH", "研究", "ICLR"]
 description: 5月の振り返り

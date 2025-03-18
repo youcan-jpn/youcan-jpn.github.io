@@ -1,6 +1,7 @@
 ---
 title: "ROBOMECH 受賞"
 date: 2024-06-07T21:36:07+02:00
+draft: true
 categories: ["研究"]
 tags: ["研究", "受賞"]
 description: ROBOMECHで2件受賞しました

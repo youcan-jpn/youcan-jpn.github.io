@@ -1,6 +1,7 @@
 ---
 title: "スイスでも作れる美味しいレシピ集"
 date: 2024-03-24T20:28:12+01:00
+draft: true
 categories: ["留学記"]
 tags: ["レシピ"]
 description: スイスで手に入る食材で作れるレシピのメモ

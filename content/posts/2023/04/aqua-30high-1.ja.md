@@ -1,7 +1,7 @@
 ---
 title: "30cmハイタイプ水槽を立ち上げる⓪"
 date: 2023-04-06T23:30:27+09:00
-draft: false
+draft: true
 categories: ["ブログ", "アクアリウム"]
 tags: ["ハイタイプ水槽", "ヤマトヌマエビ"]
 description: 30cmハイタイプ水槽を新しく立ち上げました

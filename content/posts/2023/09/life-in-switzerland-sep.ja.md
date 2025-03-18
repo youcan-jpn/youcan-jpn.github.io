@@ -1,7 +1,7 @@
 ---
 title: "ETH交換留学記（9月）"
 date: 2023-10-06T18:11:48+02:00
-draft: false
+draft: true
 categories: ["ブログ", "留学記"]
 tags: ["ETH", "自炊", "研究"]
 description: "チューリッヒに来て1か月経ったので、こちらでの生活についてまとめました"
