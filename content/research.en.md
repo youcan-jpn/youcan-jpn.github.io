@@ -4,12 +4,13 @@ summary: Research Activities
 ---
 
 ## International Conference / Workshop
+1. **Yuta Ono**, Hiroshi Nakamura, and Hideki Takase, "Exploring the possibility of TypiClust for low-budget Federated Active Learning," The 49th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2025), Toronto, Canada, July 2025.
 1. **Yuta Ono**, Till Aczel, Benjamin Estermann, and Roger Wattenhofer, "[SUPClust: Active Learning at the Boundaries](https://arxiv.org/abs/2403.03741)," 5th Workshop on practical ML for limited/low resource settings (PML4LRS@ICLR), Vienna, Austria, May 2024.
 
-## Domestic Conference / Workshop
+## Domestic Conference
 1. **Yuta Ono**, Hiroshi Nakamura, and Hideki Takase, "Evaluation of TypiClust for Federated Active Learning in Low-Budget Regimes", Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), Osaka, Japan, May 2025.
-1. **Yuta Ono**, Yuta Tarumi, Keisuke Fukuda, and Shin-ichi Maeda, "Training Deep Neural Networks for Fast Data Assimilation," Information-Based Induction Sciences and Machine Learning (IBISML), Hokkaido, Japan, Dec. 2024.
-2. **Yuta Ono**, Shun Suzuki, Yasutoshi Makino, Nozomi Nishiumi, and Hiroyuki Shinoda, "Trapping of Airborne Objects by Using Camera Tracking in Acoustic Levitation," The Robotics and Mechatronics Conference (ROBOMECH), Aichi, Japan, Jun. 2023.
+1. **Yuta Ono**, Yuta Tarumi, Keisuke Fukuda, and Shin-ichi Maeda, "Training Deep Neural Networks for Fast Data Assimilation," Information-Based Induction Sciences and Machine Learning (IBISML), Hokkaido, Japan, December 2024.
+2. **Yuta Ono**, Shun Suzuki, Yasutoshi Makino, Nozomi Nishiumi, and Hiroyuki Shinoda, "Trapping of Airborne Objects by Using Camera Tracking in Acoustic Levitation," The Robotics and Mechatronics Conference (ROBOMECH), Aichi, Japan, June 2023.
 
 
 ## Scholarship
