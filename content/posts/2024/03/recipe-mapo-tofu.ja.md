@@ -1,13 +1,31 @@
 ---
 title: "麻婆豆腐"
 date: 2024-03-24T21:14:14+01:00
-draft: true
+draft: false
 categories: []
 tags: ["レシピ"]
 description: 麻婆豆腐のレシピ
 ---
 
 ## 食材
+
+{{< colored_note color="green">}}
+食材や調味料の購入可能場所を以下のように表示します：
+<dl>
+  <dt>C</dt>
+  <dd>Coop</dd>
+  <dt>M</dt>
+  <dd>Migros</dd>
+  <dt>L</dt>
+  <dd>Lidl</dd>
+  <dt>ユ</dt>
+  <dd><a href="https://maps.app.goo.gl/CoxXtkZKRySCNcLu5">ユミハナ</a></dd>
+  <dt>ア</dt>
+  <dd><a href="https://maps.app.goo.gl/tdoSzFSFK3KGZBKB9">Asia Store</a></dd>
+  <dt>華</dt>
+  <dd><a href="https://maps.app.goo.gl/LFYPiyHfJSQH951Q8">Lian Hua</a></dd>
+</dl>
+{{< /colored_note>}}
 
 | 品目（入手場所） | 分量 | メモ |
 |:---------------|:-----|:---|
@@ -26,8 +44,7 @@ description: 麻婆豆腐のレシピ
 | B: 胡椒（L） | 適量 |  |
 | B: 豆鼓 (ア・華) | 大さじ1 | 老干妈が有名らしい |
 | 水溶き片栗粉（ユ） | 大さじ3 | 片栗粉の代わりにスターチでも耐えるらしい |
-| 四川花椒粉 | 2つまみ | 花椒を刻んで使っているが、粉のほうがよさそう |
-
+| 花椒（華） | 2つまみ | 花椒を刻んで使っているが、粉のものも入手可能 |
 
 ## 手順
 1. 油をひいたフライパンを熱し、ひき肉を入れて火を通す

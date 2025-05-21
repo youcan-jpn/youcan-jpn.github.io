@@ -23,48 +23,31 @@ languages:
           name: 投稿
           url: /posts/
           weight: 20
-        - identifier: categories
-          name: カテゴリ
-          url: /categories/
-          weight: 30
-        - identifier: tags
-          name: タグ
-          url: /tags/
-          weight: 40
+        - identifier: notes
+          name: 雑記帳
+          url: /notes/
+          weight: 25
   en:
     languageName: English
     weight: 2
     menu:
       main:
         - identifier: profile
-          name: profile
+          name: Profile
           url: /profile/
           weight: 10
         - identifier: research
-          name: research
+          name: Research
           url: /research/
           weight: 15
         - identifier: posts
-          name: posts
+          name: Posts
           url: /posts/
           weight: 20
-        - identifier: categories
-          name: categories
-          url: /categories/
-          weight: 30
-        - identifier: tags
-          name: tags
-          url: /tags/
-          weight: 40
-  # de:
-  #   languageName: Deutsch
-  #   weight: 3
-  #   menu:
-  #     main:
-  #       - identifier: posts
-  #         name: Beiträge
-  #         url: /posts/
-  #         weight: 10
+        - identifier: notes
+          name: Notes
+          url: /notes/
+          weight: 25
 
 params:
   env: production
@@ -95,7 +78,7 @@ params:
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
 
-  description: Site of Yuta Ono
+  description: Website of Yuta Ono
   images:
     - opengraph.png
 
