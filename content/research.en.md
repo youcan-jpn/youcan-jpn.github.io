@@ -13,15 +13,20 @@ summary: Research Activities
 2. **Yuta Ono**, Shun Suzuki, Yasutoshi Makino, Nozomi Nishiumi, and Hiroyuki Shinoda, "Trapping of Airborne Objects by Using Camera Tracking in Acoustic Levitation," The Robotics and Mechatronics Conference (ROBOMECH), Aichi, Japan, June 2023.
 
 
-## Scholarship
-
-| Period | Name (Amount) |
-| :----- | :------------ |
-| 2023.09 -- 2024.08 | [AY2023 UTokyo-TOYOTA Study Abroad Scholarship for the study and research in the field of Artificial Intelligence](https://www.u-tokyo.ac.jp/adm/go-global/ja/scholarship-list-toyota.html) (JPY 220,000 per month) |
-
-
 ## Award
 | Date | Name |
 | :--- | :--- |
 | May 2024 | Certificate of Merit for ROBOMECH Outstanding Research Activity, The Japan Society of Mechanical Engineers |
 | May 2024 | Fellow Award for Outstanding Young Engineers, The Japan Society of Mechanical Engineers |
+
+
+## Grant
+| Period | Name (Amount) |
+| :----- | :------------ |
+| 2025.06 -- 2026.03 | [AY2025 AIP Challenge Programme, Japan Science and Technology Agency](https://www.jst.go.jp/kisoken/aip/en/program/wakate/index.html) (JPY 1,000,000) |
+
+## Scholarship
+
+| Period | Name (Amount) |
+| :----- | :------------ |
+| 2023.09 -- 2024.08 | [AY2023 UTokyo-TOYOTA Study Abroad Scholarship for the study and research in the field of Artificial Intelligence](https://www.u-tokyo.ac.jp/adm/go-global/ja/scholarship-list-toyota.html) (JPY 220,000 per month) |
