@@ -4,7 +4,7 @@ summary: Research Activities
 ---
 
 ## International Conference / Workshop
-1. **Yuta Ono**, Hiroshi Nakamura, and Hideki Takase, "Exploring the possibility of TypiClust for low-budget Federated Active Learning," The 49th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2025), Toronto, Canada, July 2025.
+1. **Yuta Ono**, Hiroshi Nakamura, and Hideki Takase, "[Exploring the possibility of TypiClust for low-budget Federated Active Learning](https://arxiv.org/abs/2505.19404)," The 49th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2025), Toronto, Canada, July 2025.
 1. **Yuta Ono**, Till Aczel, Benjamin Estermann, and Roger Wattenhofer, "[SUPClust: Active Learning at the Boundaries](https://arxiv.org/abs/2403.03741)," 5th Workshop on practical ML for limited/low resource settings (PML4LRS@ICLR), Vienna, Austria, May 2024.
 
 ## Domestic Conference
