@@ -4,7 +4,7 @@ summary: Research Activities
 ---
 
 {{<colored_note color="blue">}}
-最新のCVは[こちら](https://github.com/youcan-jpn/curriculum-vitae/blob/main/out/main.pdf).
+最新のCVは<a href="https://github.com/youcan-jpn/curriculum-vitae/blob/main/out/main.pdf" target="_blank" rel="noopener">こちら</a>
 {{</colored_note>}}
 
 
